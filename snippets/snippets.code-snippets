@@ -1,0 +1,47 @@
+{
+  "4px": {
+    "prefix": ["curs-4"],
+    "body": ["theme.curs.spacing.xs"],
+    "description": "4px spacing"
+  },
+  "8px": {
+    "prefix": ["curs-8"],
+    "body": ["theme.curs.spacing.s"],
+    "description": "8px spacing"
+  },
+  "12px": {
+    "prefix": ["curs-12"],
+    "body": ["theme.curs.spacing.sm"],
+    "description": "12px spacing"
+  },
+  "16px": {
+    "prefix": ["curs-16"],
+    "body": ["theme.curs.spacing.m"],
+    "description": "16px spacing"
+  },
+  "20px": {
+    "prefix": ["curs-20"],
+    "body": ["theme.curs.spacing.md"],
+    "description": "20px spacing"
+  },
+  "24px": {
+    "prefix": ["curs-24"],
+    "body": ["theme.curs.spacing.l"],
+    "description": "24px spacing"
+  },
+  "32px": {
+    "prefix": ["curs-32"],
+    "body": ["theme.curs.spacing.lg"],
+    "description": "32px spacing"
+  },
+  "48px": {
+    "prefix": ["curs-48"],
+    "body": ["theme.curs.spacing.xl"],
+    "description": "48px spacing"
+  },
+  "full": {
+    "prefix": ["curs-full"],
+    "body": ["theme.curs.spacing.full"],
+    "description": "100& spacing"
+  }
+}
