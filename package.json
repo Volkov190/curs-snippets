@@ -9,6 +9,8 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {"type": "git", "url": "git@github.com:Volkov190/curs-snippets.git"},
+  "publisher": "MAWINIST",
   "contributes": {
     "snippets": [
       {
